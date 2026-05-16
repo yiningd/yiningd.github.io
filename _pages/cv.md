@@ -1,12 +1,8 @@
 ---
-layout: cv
+layout: none
 permalink: /cv/
 title: CV
 nav: true
 nav_order: 5
-cv_pdf: /assets/pdf/Ding_CV_May2026.pdf
-cv_format: rendercv # options: rendercv, jsonresume
-description: 
-toc:
-  sidebar: left
+redirect_to: /assets/pdf/Ding_CV_May2026.pdf
 ---
