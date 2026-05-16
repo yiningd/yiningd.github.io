@@ -51,7 +51,7 @@ jobs:
           repository: ${{ env.REPOSITORY }}
           token: ${{ secrets.LIGHTHOUSE_BADGER_TOKEN }}
           ref: ${{ env.BRANCH }}
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v4.2.2
         with:
           repository: "myactionway/lighthouse-badges"
           path: temp_lighthouse_badges_nested
