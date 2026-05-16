@@ -9,12 +9,13 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>📧 <a href="mailto:d.yining@wustl.edu">d.yining@wustl.edu</a></p>
+    <p>📧 <a href="mailto:d.yining@wustl.edu">email</a></p>
     <p>🦋 <a href="https://bsky.app/profile/liliand.bsky.social">Bluesky</a></p>
     <p>𝕏 <a href="https://x.com/YiningDing">Twitter/X</a></p>
+    <p>📖 <a href="https://scholar.google.com/citations?user=IOf_4z0AAAAJ&hl=en">Google Scholar</a></p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true # includes social icons at the bottom of the page
+social: false # includes social icons at the bottom of the page
 
 announcements:
   enabled: false # includes a list of news items
