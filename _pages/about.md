@@ -9,7 +9,7 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>📧 <a href="mailto:d.yining@wustl.edu">email</a></p>
+    <p>📧 <a href="mailto:d.yining@wustl.edu">Email</a></p>
     <p>🦋 <a href="https://bsky.app/profile/liliand.bsky.social">Bluesky</a></p>
     <p>𝕏 <a href="https://x.com/YiningDing">Twitter/X</a></p>
     <p>📖 <a href="https://scholar.google.com/citations?user=IOf_4z0AAAAJ&hl=en">Google Scholar</a></p>
